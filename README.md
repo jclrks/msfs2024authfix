@@ -3,7 +3,7 @@ A fix for the sign-in window not appearing in Microsoft Flight Simulator 2024
 
 I tried to install MSFS 2024 a little bit ago but it just wouldn't prompt me with a sign-in window. All services and apps required were installed, and I was stumped. This will let you sign in using a browser.
 
-It *might* also work for MSFS2020.
+It *might* also work for MSFS2020. This should also work for Steam clients without web components.
 
 I really didn't want to spend a while doing this idiotic fix.
 
