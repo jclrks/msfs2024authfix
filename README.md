@@ -7,4 +7,4 @@ I really didn't want to spend a while doing this idiotic fix.
 
 ## Disclaimer
 
-This script is **NOT** a tool for piracy or any other forms of unbridled shenanigans, it just routes login to your default browser rather than the game's WebView2 due to the WebView's high failure rate.
+This fix is **NOT** a tool for piracy or any other forms of unbridled shenanigans, it just routes login to your default browser rather than the game's WebView2 due to the WebView's high failure rate.
